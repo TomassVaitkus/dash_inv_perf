@@ -19,7 +19,7 @@ app.layout = dcc.Graph(
             {'x': data['Date'], 'y': data['performance'], 'type': 'bar'},
         ],
         'layout': {
-            'title': 'Daily Perfomance of Tesla'
+            'title': 'Daily Perfomance of Apple'
         }
     }
 )
