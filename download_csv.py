@@ -10,14 +10,8 @@ from selenium import webdriver
 browser = webdriver.Chrome()
 browser.get('https://www.marketwatch.com/investing/stock/tsla/download-data?mod=mw_quote_tab')
 
+# <<<<<<<< got blocked... neeeeeeeeeeed wait.....>>>>>>>>>>>
 
 
-
-data = pd.read_csv('https://www.example.com/nuoroda/iki/csv-failo.csv')
-
-
-
-
-print(data.head()) 
 
 
