@@ -5,7 +5,8 @@ The idea is to visualize every company’s monthly performance with Dash
 
 
 what to do?:
-1) download file from marketwach.com 
+1) read yahoo finance by ticker
+2) create simmpe dash app with chart
 ============= will be updated ======================
 
 
